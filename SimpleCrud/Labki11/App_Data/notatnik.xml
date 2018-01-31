@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<ArrayOfSamochod xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Samochod>
+    <Id>1</Id>
+    <Marka>qwe</Marka>
+    <Wlasciciel>qwe</Wlasciciel>
+    <Pojemnosc>123</Pojemnosc>
+    <Sprawdzony>true</Sprawdzony>
+    <Grupa>Ciężarowy</Grupa>
+  </Samochod>
+  <Samochod>
+    <Id>2</Id>
+    <Marka>ASDAASD</Marka>
+    <Wlasciciel>asD</Wlasciciel>
+    <Pojemnosc>ASD</Pojemnosc>
+    <Sprawdzony>true</Sprawdzony>
+    <Grupa>Pickup</Grupa>
+  </Samochod>
+</ArrayOfSamochod>
